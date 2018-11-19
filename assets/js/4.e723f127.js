@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{148:function(t,i,n){"use strict";n.r(i);var s=n(0),e=Object(s.a)({},function(){var t=this.$createElement,i=this._self._c||t;return i("div",{staticClass:"content"},[i("img",{attrs:{src:this.$withBase("/img/tiancai.jpg"),alt:"foo"}})])},[],!1,null,null,null);e.options.__file="README.md";i.default=e.exports}}]);
